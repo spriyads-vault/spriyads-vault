@@ -31,16 +31,6 @@ I am currently working on **Agentic Workflows**—systems where LLMs can plan, e
 
 ---
 
-### 📈 GitHub Stats
-
-![Sathishka's Stats](https://github-readme-stats.vercel.app/api?username=spriyads-vault&show_icons=true&theme=radical&count_private=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spriyads-vault&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=spriyads-vault&theme=radical&hide_border=true)
-
----
-
 ### 📫 Connect
 - **Collaboration:** Interested in Multi-Agent Systems and Client-Side Inference (WebGPU).
 - **Email:** [spriyad.infor@gmail.com](mailto:spriyad.infor@gmail.com)
