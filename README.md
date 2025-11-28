@@ -32,10 +32,12 @@ I am currently working on **Agentic Workflows**—systems where LLMs can plan, e
 ---
 
 ### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=spriyads-vault&show_icons=true&theme=radical&hide_border=true" alt="Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spriyads-vault&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
-</p>
+
+![Sathishka's Stats](https://github-readme-stats.vercel.app/api?username=spriyads-vault&show_icons=true&theme=radical&count_private=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spriyads-vault&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=spriyads-vault&theme=radical&hide_border=true)
 
 ---
 
