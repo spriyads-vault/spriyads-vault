@@ -35,3 +35,6 @@ I am currently working on **Agentic Workflows**—systems where LLMs can plan, e
 - **Collaboration:** Interested in Multi-Agent Systems and Client-Side Inference (WebGPU).
 - **Email:** [spriyad.infor@gmail.com](mailto:spriyad.infor@gmail.com)
 - **Fun Fact:** When I'm not training models, I'm watching vintage war cinema to disconnect and recharge. 🎞️
+
+---
+> ⚠️ **System Notice:** Currently migrating legacy repositories and commit history from previous workspace (`sathishkapriyad`). Some project timelines are being reconstructed.
