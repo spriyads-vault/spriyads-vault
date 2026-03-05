@@ -38,7 +38,7 @@ I am heavily focused on **Agentic Workflows**—moving beyond standard RAG into 
 
 Whether it's collaborating on open-source AI tooling or discussing the future of agentic orchestration, I'm always open to connecting.
 
-* **Email:** [spriyad.infor@gmail.com](mailto:sash.priyad@gmail.com)
+* **Email:** [sash.priyad@gmail.com](mailto:sash.priyad@gmail.com)
 * **Off-Screen:** When I'm not tweaking routing confidence thresholds, you'll likely find me watching vintage war cinema to disconnect and recharge. 🎞️
 
 > **Note on Commit History:** I am currently migrating legacy repositories and commit history from a previous workspace (`sathishkapriyad`). Project timelines and contribution graphs are actively being reconstructed.
