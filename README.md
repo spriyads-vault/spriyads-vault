@@ -1,29 +1,32 @@
 # Hi, I'm Sathishka 👋
 
-I build production-grade AI systems, deterministic multi-agent architectures, and regulatory intelligence platforms.
+I am an AI Product Manager focused on building and scaling verifiable, high-performance AI products for enterprise users.
 
----
+With a Master of Science in Computer Science and a decade of hands-on software engineering experience, I bridge the gap between deep-tech research and product delivery. My focus is on explainable AI (XAI), product strategy, and deciding exactly what an autonomous system must prove before it reaches the user.
 
-### 🛠️ What I Build & Research
-* 🤖 **Agentic Systems**: Stateful LangGraph workflows, self-correcting agent loops, and schema-validated tool calls.
-* 🔍 **Advanced RAG**: Reciprocal Rank Fusion across dense/sparse vectors, semantic query routing, and hallucination scoring.
-* ⚡ **SLM Benchmarking**: Local model fine-tuning (Gemma/Llama), TTFT, TPS, and VRAM optimization against deterministic prompts.
-* 🛡️ **AI Governance**: Algorithmic validation, deterministic evaluation sets, and cost-vs-latency profiling.
+I am the Founder and Product Lead at Crado, where I manage the development of self-correcting, multi-agent enterprise platforms.
 
----
+### What I work on
 
-### 🚀 Key Production Impact
-* **High-Scale Systems**: Built REST APIs serving **2M+ users** (3,500 RPS) on AWS EKS.
-* **Performance Optimization**: Achieved **60% latency reduction** using LangSmith profiling and Pydantic schema guardrails.
-* **Deterministic Evaluation**: Reached **F1 = 1.00** across 400+ executions for zero-model-data verification paths.
+* 🧠 **AI Product Strategy:** Defining execution-ready specs for autonomous multi-agent state machines and advanced RAG architectures
+* 📏 **Explainability & Governance:** Establishing deterministic evaluation sets, algorithmic validation workflows, and model reasoning metrics
+* ⚖️ **Cost & Performance:** Optimizing cost-versus-latency trade-offs and driving latency reduction across high-traffic APIs
+* 🎨 **Technical UX:** Designing premium, information-dense interfaces inspired by Material Design 3 and IBM Carbon
+* ⚡ **Streaming Architecture:** Defining product requirements for genuine Server-Sent Events (SSE) to ensure authentic real-time data delivery
 
----
+### About Me
 
-### 📌 Featured Work
-* **[Crado](https://github.com/spriyads-vault/crado-app)** — Multi-market hardware compliance intelligence platform (LangGraph, Next.js, Supabase).
-* **[Adaptive RAG Engine](https://github.com/spriyads-vault/adaptive-rag-engine)** — Semantic router dispatching between FAISS, BM25, and Knowledge Graph retrieval.
-* **[InferBench](https://github.com/spriyads-vault/inferbench)** — Local SLM benchmarking and comparison toolkit for production evaluation.
+* 🚀 **Founder @ Crado:** Leading product development for autonomous AI systems, focusing on strict algorithmic validation and zero-model-data verification paths
+* ⚙️ **Lead AI Engineer @ BloomX Analytica:** Shaping the engineering and product strategy for production-grade AI infrastructure
+* 🎓 **Academic Foundation:** MSc in Computer Science bridging academic systems engineering research with commercial product delivery
+* 🤝 **Research Collaborator:** Partnering with academic institutions for IEEE systems engineering research and deterministic multi-agent benchmarking
 
----
+### Featured Work
+
+* 📦 **Crado** — Enterprise multi-agent platform prioritizing explainability and verifiable outcomes
+* 🔍 **Adaptive RAG Engine** — Semantic router dispatching between FAISS, BM25, and Knowledge Graph retrieval
+* ⚡ **InferBench** — Local SLM benchmarking and comparison toolkit for production evaluation
+
+<br/>
 
 📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/sathiska-priyad) | [Hugging Face](https://huggingface.co/spriyad) | `sash.priyad@gmail.com`
