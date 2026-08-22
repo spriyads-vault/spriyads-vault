@@ -1,65 +1,149 @@
 # SATHISKA PRIYAD
+
 <img width="3584" height="1184" alt="AI-lab-spriyad-vault" src="https://github.com/user-attachments/assets/3d7d8cc5-4cfd-421f-adb4-54c7f0237cbc" />
 
-
-**`🧠 Technical AI Product Builder | 🤖 AI Systems | 🚀 Product & Engineering`**
+**`🧠 Technical AI Product Builder · 🤖 AI Systems · 🚀 Product & Engineering`**
 
 I build AI products where **usefulness, reliability, and real-world outcomes** matter.
 
-## What I do
+## What I Do
 
 **Mission:** Build useful AI products. Measure what works. Document what I learn.
 
-* **Building @ [BloomX Analytica](https://github.com/spriyads-vault)**
-* **Building [Crado](https://github.com/spriyads-vault) — AI-powered engineering decision infrastructure**
-* **Exploring AI evaluation, agents, RAG & reliable AI systems**
-* **Documenting what I build and learn along the way**
+* 🏗️ Building @ **BloomX Analytica**
+* 🛡️ Building **Crado** — AI-powered engineering decision infrastructure
+* 🤖 Exploring **AI evaluation, agents, RAG & reliable AI systems**
+* 📝 Documenting what I build and learn
+
+---
 
 ## Selected Projects
 
-### 🛡️ [Crado](https://github.com/spriyads-vault)
+<table>
+<tr>
 
-Engineering decision infrastructure for regulated hardware.
+<td width="50%" valign="top">
 
-> **AI-assisted analysis. Evidence-backed decisions. Human review when it matters.**
+### 🛡️ Crado
+
+**Engineering decision infrastructure for regulated hardware.**
+
+AI-assisted analysis and evidence-backed decisions for hardware compliance.
+
+`Compliance AI` · `Regulatory AI` · `Decision Intelligence`
+
+<br>
+
+<a href="https://github.com/spriyads-vault">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🚦 AI Release Gate
 
-A practical approach to answering:
+**A practical answer to: “Is this AI system ready to ship?”**
 
-> **“Is this AI system ready to ship?”**
+Evaluation gates across quality, groundedness, reliability, latency, cost and regression.
 
-Evaluation across quality, groundedness, reliability, latency, cost and regression.
+`AI Evaluation` · `Reliability` · `LLMOps`
+
+<br>
+
+<a href="https://github.com/spriyads-vault">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🔬 Regulatory AI Evaluation
 
-Research into making AI systems more reliable when working with changing regulatory knowledge.
+**Making AI more reliable when working with changing regulatory knowledge.**
+
+Exploring evaluation methods for RAG systems working with evolving regulatory information.
+
+`RAG` · `Groundedness` · `Evaluation`
+
+<br>
+
+<a href="https://github.com/spriyads-vault">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
 
 ### ⚡ InferBench
 
-Benchmarking AI models across **quality, latency, memory and cost** to make better model-selection decisions.
+**Benchmarking AI models for real-world product decisions.**
+
+Compare models across quality, latency, memory and cost to identify the right model for a specific product constraint.
+
+`Benchmarking` · `Model Selection` · `Performance`
+
+<br>
+
+<a href="https://github.com/spriyads-vault">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
 
 ## How I Build
 
-**Problem → Prototype → Measure → Learn → Ship**
+```text
+Problem → Prototype → Measure → Learn → Ship
+```
 
 I care less about adding another framework and more about answering:
 
 > **Did we build the right thing, and did it actually make the workflow better?**
 
-## Tech
+---
 
-**AI:** LLMs · RAG · Agents · Evaluation · LangGraph · LangChain
-**Product:** Discovery · Requirements · Prioritisation · Product Strategy
-**Engineering:** Python · FastAPI · REST APIs · React · Next.js
-**Infrastructure:** Docker · Cloud · CI/CD · Observability
+## Technology
+
+|    | Area               | Tools                                                        |
+| -- | ------------------ | ------------------------------------------------------------ |
+| 🤖 | **AI**             | LLMs · RAG · Agents · Evaluation · LangGraph · LangChain     |
+| 🧭 | **Product**        | Discovery · Requirements · Prioritisation · Product Strategy |
+| ⚙️ | **Engineering**    | Python · FastAPI · REST APIs · React · Next.js               |
+| ☁️ | **Infrastructure** | Docker · Cloud · CI/CD · Observability                       |
+
+---
 
 ## Currently Exploring
 
-AI Product Management · AI Platforms · AI Evaluation · Developer Experience · Enterprise AI · Reliable AI Systems
+**AI Product Management** · **AI Platforms** · **AI Evaluation** · **Developer Experience** · **Enterprise AI** · **Reliable AI Systems**
+
+---
 
 ## Let's Build
 
 Building something interesting with AI?
 
-**[LinkedIn](https://www.linkedin.com/in/sathishka-priyad/) · [GitHub](https://github.com/spriyads-vault/)**
+<a href="https://www.linkedin.com/in/sathishka-priyad/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://github.com/spriyads-vault/">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<br><br>
+
+`🧠 Build useful things. Measure what matters. Ship with evidence.`
