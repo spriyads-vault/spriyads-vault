@@ -1,4 +1,4 @@
-# Sathiska Priyad
+# SATHISKA PRIYAD
 <img width="3584" height="1184" alt="AI-lab-spriyad-vault" src="https://github.com/user-attachments/assets/3d7d8cc5-4cfd-421f-adb4-54c7f0237cbc" />
 
 
