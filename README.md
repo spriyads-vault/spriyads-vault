@@ -1,6 +1,8 @@
 # SATHISKA PRIYAD
 
-<img width="3584" height="1184" alt="AI-lab-spriyad-vault" src="https://github.com/user-attachments/assets/3d7d8cc5-4cfd-421f-adb4-54c7f0237cbc" />
+<img width="2560" height="640" alt="GitHub banner 1280 x 320@2x" src="https://github.com/user-attachments/assets/7206f335-eb36-4396-b2fe-5f7dcd05e55a" />
+
+
 
 **`🧠 Technical AI Product Builder · 🤖 AI Systems · 🚀 Product & Engineering`**
 
